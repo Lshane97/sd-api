@@ -1,3 +1,7 @@
+# Fork from https://github.com/jaschahuisman/sd-api
+
+## 1. remove "alwayson_scripts" option
+
 # Stable Diffusion Api
 
 ![npm](https://img.shields.io/npm/v/stable-diffusion-api)
